@@ -1,0 +1,6 @@
+{
+  "name": "mountain-view",
+  "version": "0.2.0",
+  "description": "Claude Desktop theme: a sunny fjord seen from a mountain top, with birds flying while a task runs",
+  "types": "./types/index.d.ts"
+}

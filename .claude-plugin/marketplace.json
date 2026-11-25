@@ -1,0 +1,11 @@
+{
+  "name": "claude-theme-mountain-fjord",
+  "owner": { "name": "MdhhMnsr" },
+  "plugins": [
+    {
+      "name": "mountain-view",
+      "source": "./",
+      "description": "Claude Desktop theme: a sunny fjord seen from a mountain top, with time-of-day light and birds while a task runs"
+    }
+  ]
+}
